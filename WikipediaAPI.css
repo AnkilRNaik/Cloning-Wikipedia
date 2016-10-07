@@ -1,0 +1,45 @@
+.heading {
+  text-align: center;
+  font-size: 3.5em;
+  font-weight: 800;
+}
+
+.buttons {
+  margin-left: 196px;
+  align: center;
+}
+
+.form-control {
+  height: 50px;
+  width: 300px;
+  font-size: 23px;
+}
+
+.btn {
+  height: 50px;
+}
+
+.page-title {
+  margin-left: 10px;
+}
+
+.page-terms {
+  margin-left: 60px;
+}
+
+table {
+    height: 100px;
+    width:680px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.hoverTable tr{
+    background: #dbdbce;
+}
+
+.hoverTable tr:hover {
+    background-color: #f4562e;
+    
+}
+
